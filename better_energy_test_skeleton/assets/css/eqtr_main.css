@@ -20,6 +20,9 @@ Notes:
   width: 80%;
   margin: 0 auto;
   background-color: white;
+  margin-top: 30px;
+  margin-bottom: 80px;
+  border-radius: 25px; 
 }
 
 body {
