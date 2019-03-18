@@ -15,3 +15,13 @@ Notes:
 @tailwind components;
 
 @tailwind utilities;
+
+.main-container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: white;
+}
+
+body {
+  background-image: linear-gradient(white, green);
+}
