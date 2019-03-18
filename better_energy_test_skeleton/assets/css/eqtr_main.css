@@ -26,7 +26,7 @@ Notes:
 }
 
 body {
-  background-image: linear-gradient(white, green);
+  background-image: linear-gradient(#F1F3D0, #E5EAA9);
 }
 
 .logo {
@@ -53,7 +53,7 @@ body {
 	width: 100%;
 	display: none;
   padding: 1rem;
-  background: #fff;
+  background: green;
 }
 .tabs input[type="radio"] {
 	display: none;
